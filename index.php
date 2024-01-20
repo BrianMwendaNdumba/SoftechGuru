@@ -61,10 +61,8 @@
       </nav><!-- .navbar -->
 
       <div class="social-links">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+
+        <a href="https://www.linkedin.com/in/brian-mwenda-a86b4b25b" class="linkedin"><i class="bi bi-linkedin"></i></a>
       </div>
 
     </div>
@@ -109,12 +107,7 @@
               </ul>
             </div>
           </div>
-          <p>
-            I am proficient in various design tools, including Figma Wireframe.cc, InVision, Photoshop, and Illustrator
-            , and programming languages such as PHP, javascript, python, and reactjs. Skilled in creating wireframes, storyboards, user flow, process
-            flow, and sitemaps. I have a strong background in mobile-first and responsive design and UX design best practices. Comfortable
-             communicating with clients and collaborating with team members remotely.
-          </p>
+
           <h3>Career Objectives</h3>
           <p>
             <li>To enrich my knowledge and enhance my skills that enable me to work and grow in a competitive environment.</li>
@@ -336,11 +329,38 @@
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Brian has been a pleasure to work with. He is responsive and reliable and always goes above and beyond to ensure our satisfaction. His commitment to excellence is evident in the quality of his work.
+              Brian has been a pleasure to work with. He is responsive and reliable and always goes above and beyond to ensure our satisfaction.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
               <img src="assets/img/testimonials/profile.png" class="testimonial-img" alt="">
               <h3>Timothy</h3>
+              <h4>Client</h4>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Brian is an expert in his field of work and I would recommend him to anyone anytime. His commitment to excellence is evident in the quality of his work.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+              <img src="assets/img/testimonials/profile.png" class="testimonial-img" alt="">
+              <h3>Timothy</h3>
+              <h4>Client</h4>
+            </div>
+          </div>
+
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <p>
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Creative, keen to detail and very organized individual with good time management and fast delivery of projects.
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+              <img src="assets/img/testimonials/profile.png" class="testimonial-img" alt="">
+              <h3>Ben</h3>
               <h4>Client</h4>
             </div>
           </div>
@@ -460,7 +480,7 @@
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
             <h4>Senior Software Developer</h4>
-            <h5>2020 - Current</h5>
+            <h5>2020 - 2023</h5>
             <p><em>Kenya Virtual Workers </em></p>
             <p>
             <ul>
@@ -478,7 +498,7 @@
           </div>
           <div class="resume-item">
             <h4>Part-Time Software Developer</h4>
-            <h5>2023 - Current</h5>
+            <h5>2023 - 2024</h5>
             <p><em>EscrowPay Africa</em></p>
             <p>
             <ul>
@@ -645,8 +665,8 @@
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-web">Web</li>
-            <!-- <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-card">Card</li> -->
+            <!-- <li data-filter=".filter-app">App</li> -->
+            <li data-filter=".filter-card">Graphic</li>
 
           </ul>
         </div>
@@ -695,20 +715,21 @@
             </div>
           </div>
         </div> -->
-<!--
+
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/cimak.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
+              <h4>Cimak Investments</h4>
+              <p>Logo</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/cimak.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <!-- <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
+
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
@@ -719,6 +740,46 @@
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details0.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/Persousnalchef.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>PerSOUSnalCHEF</h4>
+              <p>Web</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/Persousnalchef.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 8"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details7.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/Mytery-Therapists.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Mystery Therapists</h4>
+              <p>Web</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/Mytery-Therapists.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 7"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details8.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/kvw.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Kenya Virtual Workers</h4>
+              <p>Logo</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/kvw.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <!-- <a href="portfolio-details.php" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -851,11 +912,8 @@
             <i class="bx bx-share-alt"></i>
             <h3>Social Profiles</h3>
             <div class="social-links">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="bi bi-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+
+              <a href="https://www.linkedin.com/in/brian-mwenda-a86b4b25b" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
         </div>
@@ -876,27 +934,9 @@
         </div>
       </div>
 
-      <form action="forms/contact.php" method="post" role="form" class="php-email-form mt-4">
-        <div class="row">
-          <div class="col-md-6 form-group">
-            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-          </div>
-          <div class="col-md-6 form-group mt-3 mt-md-0">
-            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-          </div>
-        </div>
-        <div class="form-group mt-3">
-          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-        </div>
-        <div class="form-group mt-3">
-          <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-        </div>
-        <div class="my-3">
-          <div class="loading">Loading</div>
-          <div class="error-message"></div>
-          <div class="sent-message">Your message has been sent. Thank you!</div>
-        </div>
-        <div class="text-center"><button type="submit">Send Message</button></div>
+      <form  role="form" class="php-email-form mt-4">
+
+        <div class="text-center"><a class="whatsapp" href="whatsapp://send?text=Hello Brian!&phone=+254706911425 ">WhatsApp</a></div>
       </form>
 
     </div>

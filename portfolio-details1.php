@@ -74,7 +74,7 @@
             <ul>
               <li><strong>Category</strong>: Web design</li>
               <li><strong>Client</strong>: Kenyan Company</li>
-              <li><strong>Project date</strong>: 01 Jan, 2023</li>
+              <li><strong>Project date</strong>: 2023</li>
               <li><strong>Project URL</strong>: <a href="https://www.virtual-escrow.com">www.virtual-escrow.com</a></li>
             </ul>
 

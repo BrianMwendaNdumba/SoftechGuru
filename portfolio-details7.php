@@ -46,25 +46,18 @@
         <div class="row">
 
           <div class="col-lg-8">
-            <h2 class="portfolio-title">GreenEarth Cemeteries portfolio details</h2>
+            <h2 class="portfolio-title">PerSOUSnalCHEF portfolio details</h2>
 
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/green1.jpg" alt="">
+                  <img src="assets/img/portfolio/persousnalchef2.jpg" alt="">
                 </div>
 
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/green2.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/green3.jpg" alt="">
-                </div>
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/green4.jpg" alt="">
-                </div>
+                <!-- <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ux2.png" alt="">
+                </div> -->
 
               </div>
               <div class="swiper-pagination"></div>
@@ -75,14 +68,14 @@
           <div class="col-lg-4 portfolio-info">
             <h3>Project information</h3>
             <ul>
-              <li><strong>Category</strong>: Web design</li>
-              <li><strong>Client</strong>: Kenyan Company</li>
-              <li><strong>Project date</strong>: 2023</li>
-              <li><strong>Project URL</strong>: <a href="https://www.greenearthcemeteries.com/">www.greenearthcemeteries.com/</a></li>
+              <li><strong>Category</strong>: Web Development</li>
+              <li><strong>Client</strong>: Project</li>
+              <li><strong>Project date</strong>: 2024</li>
+              <li><strong>Project URL</strong>: <a href="https://brianmwendandumba.github.io/Persousnalchef/index.html">PerSOUSnalCHEF</a></li>
             </ul>
 
             <p>
-            Green Earth Cemetries offers personalized care and garden design for gravesites, as well as delivery of fresh flowers, potted plants and memorial lights. Our care plans ensure that your loved one’s gravesite continues to look serene and green throughout the year.
+          Our Trained Professionals, equipped with culinary expertise, will make a dedicated visit to your home every week. During these visits, they take on the responsibility of handling various aspects of meal preparation, such as slicing, dicing, mixing, and organizing, ensuring that your family has three delicious and nutritious meals each day for five days of the week.
 
               </p>
           </div>

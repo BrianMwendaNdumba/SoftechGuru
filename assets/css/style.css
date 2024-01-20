@@ -1129,16 +1129,17 @@ section .container {
   padding: 12px 15px;
 }
 
-.contact .php-email-form button[type=submit] {
+.contact .php-email-form .whatsapp {
   background: #18d26e;
   border: 0;
   padding: 10px 30px;
   color: #fff;
   transition: 0.4s;
-  border-radius: 4px;
+  border-radius: 30px;
+  box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
 }
 
-.contact .php-email-form button[type=submit]:hover {
+.contact .php-email-form .whatsapp:hover {
   background: #15bb62;
 }
 

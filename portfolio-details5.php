@@ -70,7 +70,7 @@
             <ul>
               <li><strong>Category</strong>: UI/UX design</li>
               <li><strong>Client</strong>: Project</li>
-              <li><strong>Project date</strong>: 01 Jan, 2019</li>
+              <li><strong>Project date</strong>: 2019</li>
               <li><strong>Project URL</strong>: <a href="https://brianmwendandumba.github.io/UX-design/pages/about-us.html">UI/UX Design</a></li>
             </ul>
 

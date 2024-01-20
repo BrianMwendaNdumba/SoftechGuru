@@ -70,7 +70,7 @@
             <ul>
               <li><strong>Category</strong>: Web Development</li>
               <li><strong>Client</strong>: Project</li>
-              <li><strong>Project date</strong>: 01 April, 2019</li>
+              <li><strong>Project date</strong>: 2019</li>
               <li><strong>Project URL</strong>: <a href="https://brianmwendandumba.github.io/budget-app/">Budget App</a></li>
             </ul>
 
